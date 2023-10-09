@@ -17,13 +17,13 @@
 <hr>
 
 #### **Automaten-Theorie**
-  
+
 ---
 transition: fade-out
 ---
 
 # Inhalte des Moduls 2/5
-  
+
 #### **Mengenlehre**
   - Grundlagen
   - Schnittmenge
@@ -67,7 +67,7 @@ transition: fade-out
 ---
 
 # Inhalte des Moduls 4/5
-  
+
 #### **Laufzeitkomplexität**
   - Analyse und Vergleich von Algorithmen
   - O-Notation

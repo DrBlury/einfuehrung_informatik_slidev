@@ -82,7 +82,7 @@ transition: fade-out
 | Binär zu Dezimal     | 11011011 = 219 | 10011100 = 156 | 10101010 = 170 |
 | Dezimal zu Binär     | 173 = 10101101 | 219 = 11011011 | 255 = 11111111 |
 | Oktal zu Dezimal     | 357 = 239 | 521 = 337 | 777 = 511 |
-| Dezimal zu Oktal     | 317 = 475 | 465 = 711 | 511 = 777 |
+| Dezimal zu Oktal     | 317 = 475 | 465 = 721 | 511 = 777 |
 | Hexadezimal zu Dezimal| 9A = 154 | FA = 250 | B2 = 178 |
 | Dezimal zu Hexadezimal| 154 = 9A | 250 = FA | 178 = B2 |
 
@@ -111,7 +111,7 @@ transition: fade-out
 |----------------------|------------|
 | Binär zu Oktal       | 11010110 = 326 |
 | Oktal zu Hexadezimal | 641 = 1A1 |
-| Hexadezimal zu Binär | 3FA = 111111010 |
+| Hexadezimal zu Binär | 3FA = 1111111010 |
 | Binär zu Hexadezimal | 10101011 = AB |
 | Hexadezimal zu Oktal | 1F = 37 |
 | Oktal zu Binär       | 572 = 101111010 |
@@ -171,7 +171,7 @@ layout: two-cols
   - 7 / 2 = 3 Rest 1
   - 3 / 2 = 1 Rest 1
   - 1 / 2 = 0 Rest 1
-  - Ergebnis: 111111010 (von unten nach oben lesen)
+  - Ergebnis: 1111111010 (von unten nach oben lesen)
 </template>
 
 ---

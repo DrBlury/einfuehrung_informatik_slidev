@@ -50,7 +50,7 @@ p ∧ q: Es regnet und es ist kalt. <br>
 <hr>
 
 #### Aufgaben: <br>
-Bildet 5 eigene atomate Aussagen und stellt sie vor. <br>
+Bildet 5 eigene atomare Aussagen und stellt sie vor. <br>
 Bildet 5 eigene komplexe Aussagen und stellt sie vor. <br>
 
 
@@ -100,5 +100,3 @@ Lösungen: <br>
 - (p ∧ q) ∨ (p ∧ ¬ q) = p
 - ¬(p ∨ q) ∨ (p ∧ q) = ¬q
 - (p ∨ q ∨ r) ∧ (¬p ∨ q ∨ r) = q ∨ r
-  
-

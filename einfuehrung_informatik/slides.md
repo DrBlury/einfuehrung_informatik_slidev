@@ -74,3 +74,8 @@ transition: fade-out
 src: ./pages/automatentheorie.md
 transition: fade-out
 ---
+
+---
+src: ./pages/mengenlehre.md
+transition: fade-out
+---

@@ -36,3 +36,18 @@ transition: fade-out
 #### Aufgaben:  
   Bildet 5 eigene Bool'sche Variablen und stellt sie vor.  
   Bildet 5 eigene komplexe Ausdrücke und stellt sie vor.
+
+---
+transition: fade-out
+---
+
+# Karnough-Veitch-Diagramm 1/2
+
+#### Was ist das?
+- Eine Methode, um logische Ausdrücke zu vereinfachen.
+- Eine grafische Darstellung von logischen Ausdrücken.
+- Eine Möglichkeit, um logische Ausdrücke zu minimieren.
+
+#### Wie funktioniert es?
+- Die Bool'schen Variablen werden in einer Tabelle dargestellt.
+
