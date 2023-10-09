@@ -69,3 +69,8 @@ transition: fade-out
 src: ./pages/boolsche-algebra.md
 transition: fade-out
 ---
+
+---
+src: ./pages/automatentheorie.md
+transition: fade-out
+---
