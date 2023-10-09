@@ -51,6 +51,11 @@ transition: fade-out
 ---
 
 ---
+src: ./pages/geschichte.md
+transition: fade-out
+---
+
+---
 src: ./pages/zahlensysteme.md
 transition: fade-out
 ---
@@ -76,6 +81,14 @@ transition: fade-out
 ---
 
 ---
+src: ./pages/schaltungen.md
+transition: fade-out
+---
+
+---
 src: ./pages/mengenlehre.md
 transition: fade-out
 ---
+
+
+
