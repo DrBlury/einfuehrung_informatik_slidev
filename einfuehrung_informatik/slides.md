@@ -90,5 +90,14 @@ src: ./pages/mengenlehre.md
 transition: fade-out
 ---
 
+---
+src: ./pages/mengenlehre2.md
+transition: fade-out
+layout: two-cols
+---
 
+---
+src: ./pages/lizenzen.md
+transition: fade-out
+---
 
