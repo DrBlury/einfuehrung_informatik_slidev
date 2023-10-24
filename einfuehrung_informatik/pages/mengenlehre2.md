@@ -24,11 +24,12 @@
 - **Funktionsvorschrift**<br>
 - **Funktionen**<br>
 
-- **Operatoren**<br>
+- **Begriffserklärungen**<br>
     Injektivität<br>
     Surjektivität<br>
     Bijektivität<br>
     Totalität<br>
+    Partielle Funktionen<br>
 
 </template>
 
@@ -179,7 +180,7 @@ Das Prinzip der Surjektivität:<br>
 Jeder Punkt in der Zielmenge $Y$ wird mindestens einmal getroffen <br>
 
 ##### Beispiele:
-- $f : R \rightarrow R$ mit $f(x) = x^2$ ist surjektiv. <br>(Jedes Element in der Zielmenge wird getroffen)
+- $f : R \rightarrow R^+$ mit $f(x) = x^2$ ist surjektiv. <br>(Jedes Element in der Zielmenge wird getroffen)
 - $f : N \rightarrow N$ mit $f(x) = x^2$ ist nicht surjektiv. <br>(z.B. die 3 wird nicht getroffen da es keine Wurzel aus 3 gibt die in N liegt)
 
 </template>
@@ -206,7 +207,7 @@ Das Prinzip der Bijektivität: <br>
 Jeder Punkt in der Zielmenge $Y$ wird genau einmal getroffen. 
 
 ##### Beispiele:
-- $f : R \rightarrow R$ mit $f(x) = x^2$ ist bijektiv. <br>(Jeder Punkt in der Zielmenge wird **EXAKT** einmal getroffen)
+- $f : R^+ \rightarrow R^+$ mit $f(x) = x^2$ ist bijektiv. <br>(Jeder Punkt in der Zielmenge wird **EXAKT** einmal getroffen)
 
 
 </template>
@@ -248,7 +249,7 @@ da $f(x)$ nicht definiert ist für $x < 0$.
 <br><br>
 
 ##### Beispiel:
-- $f : R \rightarrow R$ mit $f(x) = \sqrt{x}$ ist total. <br>(Jedes Element in der Quellmenge hat ein Element in der Zielmenge)
+- $f : R^+ \rightarrow R$ mit $f(x) = \sqrt{x}$ ist total. <br>(Jedes Element in der Quellmenge hat ein Element in der Zielmenge)
 - $f : N \rightarrow N$ mit $f(x) = \sqrt{x}$ ist partiell. <br>(z.B. die 3 hat kein Element in der Zielmenge da es keine Wurzel aus 3 gibt die in N liegt)
 
 
